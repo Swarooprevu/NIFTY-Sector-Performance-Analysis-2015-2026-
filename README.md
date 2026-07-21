@@ -5,6 +5,7 @@
 The stock market is made up of multiple sectors, each responding differently to economic events, government policies, market sentiment, and industry specific developments. During different market cycles, some sectors consistently outperform while others lag behind, making sector level analysis an important part of understanding market behavior.
 
 I built this project to analyze the long term performance of major NIFTY sector indices between 2015 and 2026 by creating a complete end-to-end analytics pipeline using MySQL and Power BI.
+*Note: The dashboard is based on data available up to 25 June 2026, so metrics and rankings will evolve as new market data is added.
 
 Instead of simply visualizing historical price data, I wanted to transform raw market data into meaningful financial insights. The project measures sector returns, volatility, benchmark performance, and investment growth, presenting the results through an interactive Power BI dashboard.
 
